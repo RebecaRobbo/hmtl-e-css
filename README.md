@@ -5,4 +5,4 @@
 <br>
 <h1>Site de turismo</h1>
 <br>
-![flex_turismo](https://user-images.githubusercontent.com/74266277/181920134-91f4c714-337d-4a40-88e4-46aefd01adf0.png)
+![flex_turismo](https://user-images.githubusercontent.com/74266277/181920176-61a2b94e-eb21-4c34-b4a1-17505ee5f5a8.png)
